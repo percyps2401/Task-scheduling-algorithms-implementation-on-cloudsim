@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/cloudsim-3.0.3/cloudsim-3.0.3/jars/cloudsim-examples-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/cloudsim-3.0.3/cloudsim-3.0.3/jars/cloudsim-examples-3.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/cloudsim-3.0.3/cloudsim-3.0.3/jars/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/cloudsim-3.0.3/cloudsim-3.0.3/jars/cloudsim-3.0.3-sources.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
